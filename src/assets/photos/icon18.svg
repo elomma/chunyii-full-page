@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <g id="icon2" transform="translate(-815.462 -295.293)">
+    <rect id="Rectangle_283" data-name="Rectangle 283" width="52" height="52" transform="translate(815.462 295.293)" fill="none"/>
+    <path id="Path_1608" data-name="Path 1608" d="M873.991,303.541V303.3a4.008,4.008,0,0,0-4.008-4.008h0a4.008,4.008,0,0,0-4.008,4.008v.236" transform="translate(-28.521 0.728)" fill="none" stroke="#683818" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_1609" data-name="Path 1609" d="M855.292,310.519v8.452a1.445,1.445,0,0,0,1.445,1.445h.579a1.445,1.445,0,0,0,1.434-1.259l.024-.179a5.059,5.059,0,0,1,5.017-4.4h0a5.059,5.059,0,0,1,5.017,4.4l.024.18a1.445,1.445,0,0,0,1.433,1.259h0a1.445,1.445,0,0,0,1.445-1.445v-8.448a1.117,1.117,0,0,0-1.117-1.117H856.411a1.117,1.117,0,0,0-1.119,1.112Z" transform="translate(-22.328 -5.132)" fill="none" stroke="#683818" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_1610" data-name="Path 1610" d="M829.713,317.444h-11.92a1.331,1.331,0,0,0-1.331,1.331v31.9a1.331,1.331,0,0,0,1.331,1.331h46.974a1.331,1.331,0,0,0,1.331-1.331v-31.9a1.331,1.331,0,0,0-1.331-1.331h-12.5" transform="translate(0.182 -9.795)" fill="none" stroke="#683818" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_1611" data-name="Path 1611" d="M847.009,373.514a1.055,1.055,0,0,0-.746-.859l-1.692-.369a3.758,3.758,0,0,1-4.018,0l-1.692.369a1.054,1.054,0,0,0-.747.859l-.369,2.869h9.638Z" transform="translate(-12.154 -41.588)" fill="none" stroke="#d42b45" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_1612" data-name="Path 1612" d="M848.4,359.414a2.143,2.143,0,1,1-2.137-2.314A2.231,2.231,0,0,1,848.4,359.414Z" transform="translate(-15.854 -32.784)" fill="none" stroke="#d42b45" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_254" data-name="Line 254" x2="16.046" transform="translate(844.144 322.53)" fill="none" stroke="#d42b45" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_255" data-name="Line 255" x2="16.046" transform="translate(844.144 327.974)" fill="none" stroke="#d42b45" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_256" data-name="Line 256" x2="16.046" transform="translate(844.144 333.417)" fill="none" stroke="#d42b45" stroke-miterlimit="10" stroke-width="1.5"/>
+    <rect id="Rectangle_284" data-name="Rectangle 284" width="13.644" height="13.644" transform="translate(823.585 321.151)" fill="none" stroke="#d42b45" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>
